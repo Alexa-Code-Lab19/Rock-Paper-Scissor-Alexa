@@ -1,0 +1,5 @@
+1------choose {action}
+2------i would like to choose {action}
+3------my choice is {action}
+4------{action}
+5------i choose {action}
